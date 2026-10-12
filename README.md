@@ -11,9 +11,10 @@
 
 | № | название | срок | статус |
 | :-: | :--- | :-: | :-: |
+| 0 | `lab0` | — | Готово |
 | 1 | `lab1` | 24.09.2026 | Готово |
 | 2 | `lab2` | — | В планах |
 
 
 ## Интерфейс Vs code
-![Интерфейс Vs code](./bachelor/sem1/informatic/lab1/screen.png)
+![Интерфейс Vs code](./bachelor/sem1/informatic/lab0/screen.png)
