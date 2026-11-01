@@ -17,7 +17,6 @@ int main()
 		cout << a[i] << " ";
 	}
 	cout << endl;
-
 	for (int i = 0; i < n; ++i)
 	{
 		if (a[i] == 0)
